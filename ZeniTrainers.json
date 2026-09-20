@@ -29,12 +29,70 @@
       "Name": "Police Chief Simulator",
       "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator\\PoliceChiefSimulator.exe",
       "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator",
-      "TrainerStatus": "No Trainer",
+      "TrainerStatus": "Trainer Available",
       "TrainerInstructions": "",
-      "TrainerAvailable": false,
+      "TrainerAvailable": true,
       "ExecutableName": "PoliceChiefSimulator.exe",
-      "TrainerCategories": [],
-      "TrainerFeatures": []
+      "TrainerCategories": [
+        {
+          "Id": "00fc8b69-a010-40b2-8492-efeba91625cf",
+          "Name": "palyer",
+          "Description": "",
+          "Expanded": true,
+          "Features": [
+            {
+              "Id": "c3943874-a85d-4408-be6a-fb427c79b012",
+              "Name": "test",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 99999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "F2",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "",
+                "BaseAddress": "",
+                "Offsets": [],
+                "Fallback": null,
+                "AddressType": "Direct",
+                "DataType": "Int32",
+                "OnValue": "",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "TrainerFeatures": [
+        {
+          "Id": "c3943874-a85d-4408-be6a-fb427c79b012",
+          "Name": "test",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 99999,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "F2",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "",
+            "BaseAddress": "",
+            "Offsets": [],
+            "Fallback": null,
+            "AddressType": "Direct",
+            "DataType": "Int32",
+            "OnValue": "",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        }
+      ]
     },
     {
       "Id": "steam-3293260",
