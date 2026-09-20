@@ -3,8 +3,8 @@
     {
       "Id": "steam-228980",
       "Name": "Steamworks Common Redistributables",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared\\_CommonRedist\\vcredist\\2022\\VC_redist.x64.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\Steamworks Shared\\_CommonRedist\\vcredist\\2022\\VC_redist.x64.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\Steamworks Shared",
       "TrainerStatus": "No Trainer",
       "TrainerInstructions": "",
       "TrainerAvailable": false,
@@ -15,8 +15,8 @@
     {
       "Id": "steam-2397300",
       "Name": "Half Sword",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half Sword\\HalfSwordUE5.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half Sword",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\Half Sword\\HalfSwordUE5.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\Half Sword",
       "TrainerStatus": "No Trainer",
       "TrainerInstructions": "",
       "TrainerAvailable": false,
@@ -27,78 +27,20 @@
     {
       "Id": "steam-2938460",
       "Name": "Police Chief Simulator",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator\\PoliceChiefSimulator.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator",
-      "TrainerStatus": "Trainer Available",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\Police Chief Simulator\\PoliceChiefSimulator.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\Police Chief Simulator",
+      "TrainerStatus": "No Trainer",
       "TrainerInstructions": "",
-      "TrainerAvailable": true,
+      "TrainerAvailable": false,
       "ExecutableName": "PoliceChiefSimulator.exe",
-      "TrainerCategories": [
-        {
-          "Id": "00fc8b69-a010-40b2-8492-efeba91625cf",
-          "Name": "palyer",
-          "Description": "",
-          "Expanded": true,
-          "Features": [
-            {
-              "Id": "c3943874-a85d-4408-be6a-fb427c79b012",
-              "Name": "test",
-              "Description": "",
-              "Type": "Switch",
-              "Enabled": false,
-              "Value": 99999,
-              "MinimumValue": 0,
-              "MaximumValue": 100,
-              "Hotkey": "F2",
-              "SpecialInstructions": "",
-              "Memory": {
-                "Module": "",
-                "BaseAddress": "",
-                "Offsets": [],
-                "Fallback": null,
-                "AddressType": "Direct",
-                "DataType": "Int32",
-                "OnValue": "",
-                "OffValue": "",
-                "OriginalValue": "",
-                "HasOriginalValue": false
-              }
-            }
-          ]
-        }
-      ],
-      "TrainerFeatures": [
-        {
-          "Id": "c3943874-a85d-4408-be6a-fb427c79b012",
-          "Name": "test",
-          "Description": "",
-          "Type": "Switch",
-          "Enabled": false,
-          "Value": 99999,
-          "MinimumValue": 0,
-          "MaximumValue": 100,
-          "Hotkey": "F2",
-          "SpecialInstructions": "",
-          "Memory": {
-            "Module": "",
-            "BaseAddress": "",
-            "Offsets": [],
-            "Fallback": null,
-            "AddressType": "Direct",
-            "DataType": "Int32",
-            "OnValue": "",
-            "OffValue": "",
-            "OriginalValue": "",
-            "HasOriginalValue": false
-          }
-        }
-      ]
+      "TrainerCategories": [],
+      "TrainerFeatures": []
     },
     {
       "Id": "steam-3293260",
       "Name": "Waterpark Simulator",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\WaterPark Simulator\\WaterparkSimulator.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\WaterPark Simulator",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\WaterPark Simulator\\WaterparkSimulator.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\WaterPark Simulator",
       "TrainerStatus": "No Trainer",
       "TrainerInstructions": "",
       "TrainerAvailable": false,
@@ -107,10 +49,22 @@
       "TrainerFeatures": []
     },
     {
+      "Id": "steam-3949040",
+      "Name": "RV There Yet?",
+      "ExecutablePath": "",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\Ride",
+      "TrainerStatus": "No Trainer",
+      "TrainerInstructions": "",
+      "TrainerAvailable": false,
+      "ExecutableName": "",
+      "TrainerCategories": [],
+      "TrainerFeatures": []
+    },
+    {
       "Id": "steam-4001890",
       "Name": "How to Fish",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\How to Fish\\How to Fish\\How to Fish.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\How to Fish",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\How to Fish\\How to Fish\\How to Fish.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\How to Fish",
       "TrainerStatus": "No Trainer",
       "TrainerInstructions": "",
       "TrainerAvailable": false,
@@ -121,29 +75,29 @@
     {
       "Id": "steam-508440",
       "Name": "Totally Accurate Battle Simulator",
-      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Totally Accurate Battle Simulator\\TotallyAccurateBattleSimulator.exe",
-      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Totally Accurate Battle Simulator",
+      "ExecutablePath": "c:\\program files (x86)\\steam\\steamapps\\common\\Totally Accurate Battle Simulator\\TotallyAccurateBattleSimulator.exe",
+      "GameFolder": "c:\\program files (x86)\\steam\\steamapps\\common\\Totally Accurate Battle Simulator",
       "TrainerStatus": "Trainer Available",
       "TrainerInstructions": "",
       "TrainerAvailable": true,
       "ExecutableName": "TotallyAccurateBattleSimulator.exe",
       "TrainerCategories": [
         {
-          "Id": "c5c404e9-42d9-41b5-8a0e-5dc6790018e4",
+          "Id": "57766660-ff62-4bc4-91a8-cedbb834882f",
           "Name": "Player",
           "Description": "",
           "Expanded": true,
           "Features": [
             {
-              "Id": "0c279d5d-7870-40a7-9e6f-782d8ce2ae0b",
+              "Id": "29845aa9-a0b0-433c-97bd-2ea3a5ee86e2",
               "Name": "INF Money",
               "Description": "",
               "Type": "Switch",
               "Enabled": false,
-              "Value": 99999,
+              "Value": 99999999,
               "MinimumValue": 0,
               "MaximumValue": 100,
-              "Hotkey": "f1",
+              "Hotkey": "F1",
               "SpecialInstructions": "",
               "Memory": {
                 "Module": "mono-2.0-bdwgc.dll",
@@ -160,7 +114,7 @@
                 "Fallback": null,
                 "AddressType": "Pointer",
                 "DataType": "Int32",
-                "OnValue": "99999",
+                "OnValue": "9999999",
                 "OffValue": "",
                 "OriginalValue": "",
                 "HasOriginalValue": false
@@ -171,15 +125,15 @@
       ],
       "TrainerFeatures": [
         {
-          "Id": "0c279d5d-7870-40a7-9e6f-782d8ce2ae0b",
+          "Id": "29845aa9-a0b0-433c-97bd-2ea3a5ee86e2",
           "Name": "INF Money",
           "Description": "",
           "Type": "Switch",
           "Enabled": false,
-          "Value": 99999,
+          "Value": 99999999,
           "MinimumValue": 0,
           "MaximumValue": 100,
-          "Hotkey": "f1",
+          "Hotkey": "F1",
           "SpecialInstructions": "",
           "Memory": {
             "Module": "mono-2.0-bdwgc.dll",
@@ -196,7 +150,7 @@
             "Fallback": null,
             "AddressType": "Pointer",
             "DataType": "Int32",
-            "OnValue": "99999",
+            "OnValue": "9999999",
             "OffValue": "",
             "OriginalValue": "",
             "HasOriginalValue": false
@@ -210,6 +164,7 @@
     "steam-2397300",
     "steam-2938460",
     "steam-3293260",
+    "steam-3949040",
     "steam-4001890",
     "steam-508440"
   ],
