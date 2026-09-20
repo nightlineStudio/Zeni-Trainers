@@ -1,4 +1,0 @@
-Zeni Test Trainer
-
-This is a test trainer payload.
-Version: 1.0
