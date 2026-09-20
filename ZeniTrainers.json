@@ -1,0 +1,403 @@
+{
+  "AvailableGames": [
+    {
+      "Id": "steam-228980",
+      "Name": "Steamworks Common Redistributables",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared\\_CommonRedist\\vcredist\\2022\\VC_redist.x64.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared",
+      "TrainerStatus": "No Trainer",
+      "TrainerInstructions": "",
+      "TrainerAvailable": false,
+      "ExecutableName": "VC_redist.x64.exe",
+      "TrainerCategories": [],
+      "TrainerFeatures": []
+    },
+    {
+      "Id": "steam-2397300",
+      "Name": "Half Sword",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half Sword\\HalfSwordUE5.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half Sword",
+      "TrainerStatus": "Trainer Available",
+      "TrainerInstructions": "",
+      "TrainerAvailable": true,
+      "ExecutableName": "HalfSwordUE5.exe",
+      "TrainerCategories": [
+        {
+          "Id": "dcde9125-3f4e-4de3-9660-a3008958305c",
+          "Name": "fewfew",
+          "Description": "",
+          "Expanded": true,
+          "Features": [
+            {
+              "Id": "863a9e55-f4e2-4158-86a6-00183a8b7b9e",
+              "Name": "health",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 9999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "f2",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "",
+                "BaseAddress": "",
+                "Offsets": [],
+                "Fallback": null,
+                "AddressType": "Direct",
+                "DataType": "Int32",
+                "OnValue": "",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "TrainerFeatures": [
+        {
+          "Id": "863a9e55-f4e2-4158-86a6-00183a8b7b9e",
+          "Name": "health",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 9999,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "f2",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "",
+            "BaseAddress": "",
+            "Offsets": [],
+            "Fallback": null,
+            "AddressType": "Direct",
+            "DataType": "Int32",
+            "OnValue": "",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        }
+      ]
+    },
+    {
+      "Id": "steam-2938460",
+      "Name": "Police Chief Simulator",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator\\PoliceChiefSimulator.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Police Chief Simulator",
+      "TrainerStatus": "No Trainer",
+      "TrainerInstructions": "",
+      "TrainerAvailable": false,
+      "ExecutableName": "PoliceChiefSimulator.exe",
+      "TrainerCategories": [],
+      "TrainerFeatures": []
+    },
+    {
+      "Id": "steam-3293260",
+      "Name": "Waterpark Simulator",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\WaterPark Simulator\\WaterparkSimulator.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\WaterPark Simulator",
+      "TrainerStatus": "No Trainer",
+      "TrainerInstructions": "",
+      "TrainerAvailable": false,
+      "ExecutableName": "WaterparkSimulator.exe",
+      "TrainerCategories": [],
+      "TrainerFeatures": []
+    },
+    {
+      "Id": "steam-4001890",
+      "Name": "How to Fish",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\How to Fish\\How to Fish\\How to Fish.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\How to Fish",
+      "TrainerStatus": "No Trainer",
+      "TrainerInstructions": "",
+      "TrainerAvailable": false,
+      "ExecutableName": "How to Fish.exe",
+      "TrainerCategories": [
+        {
+          "Id": "7b6c1f65-62ea-43cc-b83b-44f873d31eb3",
+          "Name": "Player",
+          "Description": "",
+          "Expanded": true,
+          "Features": [
+            {
+              "Id": "bd92a222-ca2a-4622-ae16-f1e736eaf99d",
+              "Name": "test test",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 0,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "",
+                "BaseAddress": "",
+                "Offsets": [],
+                "Fallback": null,
+                "AddressType": "Direct",
+                "DataType": "Int32",
+                "OnValue": "",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "TrainerFeatures": [
+        {
+          "Id": "bd92a222-ca2a-4622-ae16-f1e736eaf99d",
+          "Name": "test test",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 0,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "",
+            "BaseAddress": "",
+            "Offsets": [],
+            "Fallback": null,
+            "AddressType": "Direct",
+            "DataType": "Int32",
+            "OnValue": "",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        }
+      ]
+    },
+    {
+      "Id": "steam-508440",
+      "Name": "Totally Accurate Battle Simulator",
+      "ExecutablePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Totally Accurate Battle Simulator\\TotallyAccurateBattleSimulator.exe",
+      "GameFolder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Totally Accurate Battle Simulator",
+      "TrainerStatus": "Trainer Available",
+      "TrainerInstructions": "",
+      "TrainerAvailable": true,
+      "ExecutableName": "TotallyAccurateBattleSimulator.exe",
+      "TrainerCategories": [
+        {
+          "Id": "0340fc0e-6031-4ec6-8c3e-2cadc95af5b7",
+          "Name": "Player",
+          "Description": "",
+          "Expanded": true,
+          "Features": [
+            {
+              "Id": "1cb9c007-05b8-4cd5-ada8-9fc2d4431b1c",
+              "Name": "INF Money",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 999999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "mono-2.0-bdwgc.dll",
+                "BaseAddress": "004A7420",
+                "Offsets": [
+                  "1C",
+                  "30",
+                  "18",
+                  "10",
+                  "70",
+                  "140",
+                  "280"
+                ],
+                "Fallback": null,
+                "AddressType": "Pointer",
+                "DataType": "Int32",
+                "OnValue": "999999",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            },
+            {
+              "Id": "1cb9c007-05b8-4cd5-ada8-9fc2d4431b1c",
+              "Name": "INF Money",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 999999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "mono-2.0-bdwgc.dll",
+                "BaseAddress": "004A7420",
+                "Offsets": [
+                  "1C",
+                  "30",
+                  "18",
+                  "10",
+                  "70",
+                  "140",
+                  "280"
+                ],
+                "Fallback": null,
+                "AddressType": "Pointer",
+                "DataType": "Int32",
+                "OnValue": "999999",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            },
+            {
+              "Id": "c00013aa-e558-4073-8cf4-64bcb4d4170b",
+              "Name": "INF Health",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 9999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "F1",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "",
+                "BaseAddress": "",
+                "Offsets": [],
+                "Fallback": null,
+                "AddressType": "Direct",
+                "DataType": "Int32",
+                "OnValue": "",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            },
+            {
+              "Id": "443e200c-cd83-4a2a-a7f0-452dc7898b54",
+              "Name": "lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+              "Description": "",
+              "Type": "Switch",
+              "Enabled": false,
+              "Value": 9999999,
+              "MinimumValue": 0,
+              "MaximumValue": 100,
+              "Hotkey": "99999999",
+              "SpecialInstructions": "",
+              "Memory": {
+                "Module": "",
+                "BaseAddress": "",
+                "Offsets": [],
+                "Fallback": null,
+                "AddressType": "Direct",
+                "DataType": "Int32",
+                "OnValue": "",
+                "OffValue": "",
+                "OriginalValue": "",
+                "HasOriginalValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "TrainerFeatures": [
+        {
+          "Id": "1cb9c007-05b8-4cd5-ada8-9fc2d4431b1c",
+          "Name": "INF Money",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 999999,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "mono-2.0-bdwgc.dll",
+            "BaseAddress": "004A7420",
+            "Offsets": [
+              "1C",
+              "30",
+              "18",
+              "10",
+              "70",
+              "140",
+              "280"
+            ],
+            "Fallback": null,
+            "AddressType": "Pointer",
+            "DataType": "Int32",
+            "OnValue": "999999",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        },
+        {
+          "Id": "c00013aa-e558-4073-8cf4-64bcb4d4170b",
+          "Name": "INF Health",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 9999,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "F1",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "",
+            "BaseAddress": "",
+            "Offsets": [],
+            "Fallback": null,
+            "AddressType": "Direct",
+            "DataType": "Int32",
+            "OnValue": "",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        },
+        {
+          "Id": "443e200c-cd83-4a2a-a7f0-452dc7898b54",
+          "Name": "lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+          "Description": "",
+          "Type": "Switch",
+          "Enabled": false,
+          "Value": 9999999,
+          "MinimumValue": 0,
+          "MaximumValue": 100,
+          "Hotkey": "99999999",
+          "SpecialInstructions": "",
+          "Memory": {
+            "Module": "",
+            "BaseAddress": "",
+            "Offsets": [],
+            "Fallback": null,
+            "AddressType": "Direct",
+            "DataType": "Int32",
+            "OnValue": "",
+            "OffValue": "",
+            "OriginalValue": "",
+            "HasOriginalValue": false
+          }
+        }
+      ]
+    }
+  ],
+  "MyGameIds": [
+    "steam-228980",
+    "steam-2397300",
+    "steam-2938460",
+    "steam-3293260",
+    "steam-4001890",
+    "steam-508440"
+  ],
+  "InstalledTrainers": []
+}
